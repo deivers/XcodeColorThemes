@@ -55,7 +55,7 @@
 		<key>xcode.syntax.identifier.class</key>
 		<string>0.303414 0.86894 0.998951 1</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>0.616851 1 0.155862 1</string>
+		<string>0.58338 0.533837 0.0230437 1</string>
 		<key>xcode.syntax.identifier.constant</key>
 		<string>0.165753 0.325793 0.996771 1</string>
 		<key>xcode.syntax.identifier.constant.system</key>
@@ -81,11 +81,11 @@
 		<key>xcode.syntax.number</key>
 		<string>1 1 0 1</string>
 		<key>xcode.syntax.plain</key>
-		<string>0.999494 0.959617 0.547388 1</string>
+		<string>0.992644 0.639891 0.328493 1</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>0.501961 0.25098 0 1</string>
+		<string>0.471445 0.208585 0.0152862 1</string>
 		<key>xcode.syntax.string</key>
-		<string>1 0.501961 0 1</string>
+		<string>0.987341 0.238471 0.0301021 1</string>
 		<key>xcode.syntax.url</key>
 		<string>0.0784314 0.0784314 1 1</string>
 	</dict>
